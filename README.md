@@ -6,3 +6,5 @@
 - 26-2 Login form, input field, password text field, submit
 - 26-3 Add event listener and compare email password
 - 26-4 Navigate to another page, Deposit, withdraw, balance grid
+- 26-5 Create Deposit and withdraw amount Input Fields
+- 
