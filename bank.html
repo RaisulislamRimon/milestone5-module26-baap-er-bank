@@ -28,7 +28,7 @@
           <!-- withdraw -->
           <div class="bg-yellow-500 p-8 rounded-xl">
             <h4 class="text-2xl">Withdraw</h4>
-            <h2 class="text-5xl">$<span>00</span></h2>
+            <h2 class="text-5xl">$<span id="withdraw-total">00</span></h2>
           </div>
           <!-- total balance -->
           <div class="bg-violet-400 p-8 rounded-xl">
@@ -65,11 +65,11 @@
               class="w-9/12 block mb-2 px-3"
               type="text"
               name=""
-              id="user-email"
+              id="withdraw-field"
               placeholder="$ Amount you want to withdraw"
             />
             <button
-              id="btn-deposit"
+              id="btn-withdraw"
               class="bg-rose-600 hover:bg-orange-600 px-8 py-2 text-white font-medium rounded-lg"
             >
               Withdraw
@@ -81,5 +81,6 @@
 
     <!-- javascript  -->
     <script src="js/deposit.js"></script>
+    <script src="js/withdraw.js"></script>
   </body>
 </html>

@@ -9,3 +9,4 @@
 - 26-5 Create Deposit and withdraw amount Input Fields
 - 26-6 Get User deposit and set deposit total value
 - 26-7 Update deposit and balance and handle string add
+- 26-8 Money withdraw and reduce balance for withdraw
